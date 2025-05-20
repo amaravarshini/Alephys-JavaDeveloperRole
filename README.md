@@ -37,3 +37,9 @@ A simple and user-friendly desktop-based expense tracking application built usin
 
 - Java 8 or above
 - Swing (comes preinstalled with Java SE)
+
+---
+
+## 📸 Output Screenshots
+
+https://github.com/amaravarshini/Alephys-JavaDeveloperRole/tree/main/Alephys-ExpenseTracker/screenshots/
